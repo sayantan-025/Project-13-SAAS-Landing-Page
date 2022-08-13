@@ -1,0 +1,17 @@
+# Project-13-SAAS-Landing-Page
+
+![Created By Sayantan Bera](https://img.shields.io/badge/Created%20By-Sayantan%20Bera-blue)
+
+## **Project-13** [Live Link](https://plant-landing-page-sayantan.netlify.app/)
+
+### Website Image
+
+![website img](./screenshots/project%2013.png)
+
+---
+
+## What I learned from this Project
+
+- Learned card design
+
+## This project took around 4.5 hours to complete.
