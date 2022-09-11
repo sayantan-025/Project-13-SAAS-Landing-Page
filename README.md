@@ -14,4 +14,4 @@
 
 - Learned card design
 
-## This project took around 4.5 hours to complete.
+## This project took around 4.5 hours to complete and 2.5 hours to responsive.
